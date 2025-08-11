@@ -1,7 +1,7 @@
 <h2 align="center">Full Stack Engineer</h2>
 
 ## About Me
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dimafree&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ritus2&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
 I am a Full Stack Engineer who enjoys creating web applications that are both useful and pleasant to use.  
 I work with **JavaScript, TypeScript, React.js, Next.js, TailwindCSS, Redux, PHP, Laravel**, and other modern tools to make websites fast, clear, and easy to navigate.
